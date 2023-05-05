@@ -7,8 +7,6 @@ const router = express.Router()
 
 /**
   [GET] /api/schemes
-
-  response:
   [
     {
       "scheme_id": 1,
